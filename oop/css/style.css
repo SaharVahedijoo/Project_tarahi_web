@@ -1,0 +1,18 @@
+body{
+	direction: ltr;
+	text-align: center;
+	background-color: #FADCD9;
+}
+input,textarea{
+	padding: 10px;
+	border: 1px solid chocolate;
+	margin: 10px;
+	text-align: left;
+	background-color: cornsilk;
+	border-radius: 10pt;
+}
+table{
+	display: inline-block;
+	padding: 50px;
+}
+

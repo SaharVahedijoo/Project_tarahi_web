@@ -1,0 +1,51 @@
+header{
+	width: 100%;
+	height: 150px;
+	background-color: #A49393;
+}
+header h1{
+	color: #EEEDE7;
+	padding: 20px;
+}
+header nav a{
+	text-decoration: none;
+	color: #000;
+	padding: 10px;
+}
+header nav a:hover{
+	color: #fff;
+}
+#container{
+	overflow: hidden;
+}
+main{
+	width: 83%;
+	height: 1000px;
+	background-color: #EED6D3;
+	float: right;
+}
+aside{
+	width: 17%;
+	height: 1000px;
+	background-color: #E8B4B8;
+	float: left;
+}
+aside nav a{
+	text-decoration: none;
+	color: #000;
+	padding: 10px;
+}
+aside nav a:hover{
+	color: #fff;
+}
+footer{
+	width: 100%;
+	height: 100px;
+	background-color: #67595E;
+}
+footer p{
+	color: #EEEDE7;
+	text-align: center;
+	margin: auto;
+	padding: 50px;
+}

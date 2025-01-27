@@ -1,0 +1,26 @@
+
+body{
+	direction: rtl;
+	background-color: #E7D2CC;
+	text-align: center;
+}
+
+table{
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td , tr{
+	border: 2px solid darkgray;
+	text-align: center;
+	padding: 8px;
+	
+}
+
+tr:nth-child(even){
+	background-color: silver;
+}
+tr:nth-child(odd){
+	background-color: aliceblue;
+}

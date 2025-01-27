@@ -1,0 +1,1 @@
+<footer><p>News site 2021</p></footer>
